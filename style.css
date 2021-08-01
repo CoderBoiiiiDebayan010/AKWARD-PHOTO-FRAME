@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(200, 245, 0);
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+canvas {
+    background-color: rgb(252, 0, 0);
+}
+img {
+    width: 1500px;
+    height: 1500px;
+}
